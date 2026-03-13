@@ -1,0 +1,1 @@
+DROP ROLE IF EXISTS "ravi_kumar"; -- This will drop the role "ravi_kumar" from the database. Make sure to revoke any privileges or remove dependencies before dropping the role.
